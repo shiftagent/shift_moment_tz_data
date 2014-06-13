@@ -1,0 +1,10 @@
+{
+  "name": "shift_moment_tz_data",
+  "version": "0.0.1",
+  "homepage": "https://github.com/shiftagent/shift_moment_tz_data",
+  "authors": [
+    "Matt Webb <matt@shiftagent.org>"
+  ],
+  "license": "MIT",
+  "private": true
+}
